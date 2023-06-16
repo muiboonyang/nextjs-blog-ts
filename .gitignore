@@ -121,3 +121,4 @@ yarn-debug.log*
 
 .idea/
 .vscode/
+/.next/
